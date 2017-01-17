@@ -15,7 +15,6 @@
 
 애플 브런치 두 번째 커밋
 
-<<<<<<< HEAD
 세번째 세번째 세번째 세번째!!!!!!!!!!!!!!
 
 dfjjjjjjjjjjdfj크아아아앙
@@ -28,6 +27,7 @@ dfjjjjjjjjjjdfj크아아아앙
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 34b316c... Dfdf
 =======
@@ -35,5 +35,6 @@ dfjjjjjjjjjjdfj크아아아앙
 =======
 >>>>>>> parent of 34b316c... Dfdf
 =======
+=======
+>>>>>>> parent of 5cd31d5... Revert "Dfdf"
 세번째 세번째 세번째 세번째!!!!!!!!!!!!!!!!!
->>>>>>> parent of 87d97b0... first 리눅스에서 저장
