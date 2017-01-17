@@ -24,7 +24,10 @@ dfjjjjjjjjjjdfj크아아아앙
 
 >>>>>>> parent of 3f2a137... 으아아아아앙
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 34b316c... Dfdf
 =======
 세번째 세번째 세번째 세번째!!!!!!!!!!!!!!!!!
 >>>>>>> parent of 87d97b0... first 리눅스에서 저장
