@@ -25,7 +25,6 @@ dfjjjjjjjjjjdfj크아아아앙
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -33,8 +32,11 @@ dfjjjjjjjjjjdfj크아아아앙
 =======
 >>>>>>> parent of 34b316c... Dfdf
 =======
+<<<<<<< HEAD
 >>>>>>> parent of 34b316c... Dfdf
 =======
 =======
 >>>>>>> parent of 5cd31d5... Revert "Dfdf"
+=======
+>>>>>>> parent of 8b991a1... Revert "Dfdf"
 세번째 세번째 세번째 세번째!!!!!!!!!!!!!!!!!
