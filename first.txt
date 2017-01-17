@@ -26,7 +26,10 @@ dfjjjjjjjjjjdfj크아아아앙
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 34b316c... Dfdf
 =======
 >>>>>>> parent of 34b316c... Dfdf
 =======
